@@ -31,7 +31,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (CCF-A)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (CCF-A)</div><img src='images/aergs-slam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_AERGS-SLAM_Auto-Exposure-Robust_Stereo_3D_Gaussian_Splatting_SLAM_CVPR_2026_paper.pdf)
