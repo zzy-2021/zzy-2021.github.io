@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the School of Automation Science and Engineering at **South China University of Technology (SCUT)**, advised by [Prof. Yu Liu](https://www2.scut.edu.cn/automation/). My research interests include **robot perception, 3D vision, SLAM, and large language model (LLM) reasoning**. I focus on developing robust visual localization and mapping algorithms for mobile robots, as well as exploring the integration of multi-modal large models for intelligent systems.
+I am a Ph.D. student in the School of Automation Science and Engineering at **South China University of Technology (SCUT)**, advised by [Prof. Yu Liu](https://www.scholat.com/auylau). My research interests include **robot perception, 3D vision, SLAM, and large language model (LLM) reasoning**. I focus on developing robust visual localization and mapping algorithms for mobile robots, as well as exploring the integration of multi-modal large models for intelligent systems.
 
 <span class='anchor' id='-news'></span>
 
