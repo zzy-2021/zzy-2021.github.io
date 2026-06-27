@@ -31,26 +31,90 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (CCF-A)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_AERGS-SLAM_Auto-Exposure-Robust_Stereo_3D_Gaussian_Splatting_SLAM_CVPR_2026_paper.pdf)
 
 **Zhiyu Zhou**, Feng Hui, Yu Liu*
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026* (CCF-A)
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
 
 [**PDF**](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_AERGS-SLAM_Auto-Exposure-Robust_Stereo_3D_Gaussian_Splatting_SLAM_CVPR_2026_paper.pdf) \| [**Code**](https://github.com/zzy-2021/AERGS-SLAM)
-- Proposes a stereo auto-exposure-robust Gaussian splatting SLAM framework that handles camera auto-exposure variations for reliable localization and photorealistic mapping.
+- Proposes a stereo auto-exposure-robust Gaussian splatting SLAM framework that models the camera exposure process via a camera response network, achieving reliable localization and exposure-controlled photorealistic mapping under varying illumination conditions.
 
 </div>
 </div>
 
-- [HBA-VIO: High-Precision Direct Sparse Monocular Visual-Inertial Odometry via Hybrid Bundle Adjustment](https://ieeexplore.ieee.org/abstract/document/11554079), **Zhiyu Zhou**, Han Zhang, Feng Hui, Junyi Wu, Yu Liu*. *IEEE/ASME Transactions on Mechatronics, 2026* (SCI Q1)
-- [Visual Localization Using 3D Gaussian Splatting Representation for Mobile Robots with Geometric Feature Correspondences Synthesis](https://doi.org/10.1109/TASE.2025.3601848), **Zhiyu Zhou**, Feng Hui, Xing Li, Yu Liu*. *IEEE Transactions on Automation Science and Engineering, 2025* (SCI Q1)
-- [Six-DoF Pose Estimation with Efficient 3-D Gaussian Splatting Representation for Visual Relocalization](https://doi.org/10.1109/TMECH.2024.3507134), **Zhiyu Zhou**, Feng Hui, Yu Liu*. *IEEE/ASME Transactions on Mechatronics, 2025* (SCI Q1)
-- [Optical Flow-Based Stereo Visual Odometry with Dynamic Object Detection](https://doi.org/10.1109/TCSS.2022.3205015), Yu Liu, **Zhiyu Zhou**. *IEEE Transactions on Computational Social Systems, 2023* (SCI Q2)
-- [Stereo Visual Odometry for Object Segmentation Based on Sparse Optical Flow in Dynamic Scene](https://doi.org/10.23919/CCC55666.2022.9901713), **Zhiyu Zhou**, Yu Liu*. *Chinese Control Conference (CCC), 2022* (EI)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HBA-VIO: High-Precision Direct Sparse Monocular Visual-Inertial Odometry via Hybrid Bundle Adjustment](https://ieeexplore.ieee.org/abstract/document/11554079)
+
+**Zhiyu Zhou**, Han Zhang, Feng Hui, Junyi Wu, Yu Liu*
+
+*IEEE/ASME Transactions on Mechatronics, 2026* (SCI Q1)
+
+- Proposes a high-precision direct sparse monocular visual-inertial odometry system that leverages hybrid bundle adjustment, combining the strengths of both photometric and geometric constraints to achieve robust and accurate state estimation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual Localization Using 3D Gaussian Splatting Representation for Mobile Robots with Geometric Feature Correspondences Synthesis](https://doi.org/10.1109/TASE.2025.3601848)
+
+**Zhiyu Zhou**, Feng Hui, Xing Li, Yu Liu*
+
+*IEEE Transactions on Automation Science and Engineering, 2025* (SCI Q1)
+
+- Proposes a novel coarse-to-fine visual localization method (L3DGS) based on 3DGS radiance field representation, synthesizing geometric feature correspondences to enable accurate and efficient mobile robot relocalization with reduced map reconstruction time.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Six-DoF Pose Estimation with Efficient 3-D Gaussian Splatting Representation for Visual Relocalization](https://doi.org/10.1109/TMECH.2024.3507134)
+
+**Zhiyu Zhou**, Feng Hui, Yu Liu*
+
+*IEEE/ASME Transactions on Mechatronics, 2025* (SCI Q1)
+
+- Presents a vision-only six-DoF pose estimation approach leveraging an efficient pretrained 3DGS map representation, enabling a robot to relocalize from single RGB images with high accuracy and computational efficiency.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Optical Flow-Based Stereo Visual Odometry with Dynamic Object Detection](https://doi.org/10.1109/TCSS.2022.3205015)
+
+Yu Liu, **Zhiyu Zhou**
+
+*IEEE Transactions on Computational Social Systems, 2023* (SCI Q2)
+
+- Proposes a stereo visual odometry method for dynamic environments that eliminates dynamic feature interference via an optical flow filtering algorithm based on quantitative histogram and optical flow angle histogram, enabling robust pose estimation and dynamic object detection.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stereo Visual Odometry for Object Segmentation Based on Sparse Optical Flow in Dynamic Scene](https://doi.org/10.23919/CCC55666.2022.9901713)
+
+**Zhiyu Zhou**, Yu Liu*
+
+*Chinese Control Conference (CCC), 2022* (EI)
+
+- Proposes a stereo visual odometry method utilizing sparse optical flow for dynamic object segmentation, combining multi-feature fusion to perform binary segmentation and obtain bounding boxes of dynamic objects in complex scenes.
+
+</div>
+</div>
 
 <span class='anchor' id='-patents'></span>
 
