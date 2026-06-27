@@ -146,9 +146,9 @@ Yu Liu, **Zhiyu Zhou**
 
 # 💻 Research Projects
 
-- *2026.01 - Present*: **National Major Scientific Research Instrument Development Project** — *Intelligent Defect Detection Instrument for TGV Advanced Packaging of Chip Substrates* (Grant No. 62433011). Role: Converting multi-source heterogeneous data (defect image attributes, equipment logs, process parameters) into structured text descriptions, and analyzing defect causes using large language models.
-- *2021.12 - 2024.11*: **National Key R&D Program** — *Key Technology Development and Demonstration of Vehicle-Grade Solid-State LiDAR for Autonomous Driving* (Grant No. 2021YFB3202200). Role: Developing high-fidelity 3D scene reconstruction algorithms based on LiDAR point clouds, and conducting real-world experiments on mobile robots.
-- *2021.07 - 2024.06*: **Guangdong Provincial Key-Area R&D Program** — *Key Technology Development and Industrialization of Intelligent Visual Inspection for Human-Robot Collaboration* (Grant No. 2021B0101200001). Role: Developing visual localization algorithms for inspection scenarios, achieving high-precision pose estimation and spatial modeling of inspection targets.
+- *2026.01 - Present*: **the Special Fund for Research on National Major Research Instruments of NSFC** — *Intelligent Defect Detection Instrument for TGV Advanced Packaging of Chip Substrates*. Role: Converting multi-source heterogeneous data (defect image attributes, equipment logs, process parameters) into structured text descriptions, and analyzing defect causes using large language models.
+- *2021.12 - 2024.11*: **the Key Program of National Natural Science Foundation of China** — *Key Technology Development and Demonstration of Vehicle-Grade Solid-State LiDAR for Autonomous Driving*. Role: Developing high-fidelity 3D scene reconstruction algorithms based on LiDAR point clouds, and conducting real-world experiments on mobile robots.
+- *2021.07 - 2024.06*: **the Key-Area Research and Development Program of Guangdong Province** — *Key Technology Development and Industrialization of Intelligent Visual Inspection for Human-Robot Collaboration*. Role: Developing visual localization algorithms for inspection scenarios, achieving high-precision pose estimation and spatial modeling of inspection targets.
 
 <span class='anchor' id='-skills'></span>
 
