@@ -46,7 +46,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 </div>
 </div>
 
-- [HBA-VIO: High-Precision Direct Sparse Monocular Visual-Inertial Odometry via Hybrid Bundle Adjustment](), **Zhiyu Zhou**, Han Zhang, Feng Hui, Junyi Wu, Yu Liu*. *IEEE/ASME Transactions on Mechatronics, 2026* (SCI Q1)
+- [HBA-VIO: High-Precision Direct Sparse Monocular Visual-Inertial Odometry via Hybrid Bundle Adjustment](https://ieeexplore.ieee.org/abstract/document/11554079), **Zhiyu Zhou**, Han Zhang, Feng Hui, Junyi Wu, Yu Liu*. *IEEE/ASME Transactions on Mechatronics, 2026* (SCI Q1)
 - [Visual Localization Using 3D Gaussian Splatting Representation for Mobile Robots with Geometric Feature Correspondences Synthesis](https://doi.org/10.1109/TASE.2025.3601848), **Zhiyu Zhou**, Feng Hui, Xing Li, Yu Liu*. *IEEE Transactions on Automation Science and Engineering, 2025* (SCI Q1)
 - [Six-DoF Pose Estimation with Efficient 3-D Gaussian Splatting Representation for Visual Relocalization](https://doi.org/10.1109/TMECH.2024.3507134), **Zhiyu Zhou**, Feng Hui, Yu Liu*. *IEEE/ASME Transactions on Mechatronics, 2025* (SCI Q1)
 - [Optical Flow-Based Stereo Visual Odometry with Dynamic Object Detection](https://doi.org/10.1109/TCSS.2022.3205015), Yu Liu, **Zhiyu Zhou**. *IEEE Transactions on Computational Social Systems, 2023* (SCI Q2)
