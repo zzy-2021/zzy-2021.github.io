@@ -46,7 +46,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2026</div><img src='images/HBA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HBA-VIO: High-Precision Direct Sparse Monocular Visual-Inertial Odometry via Hybrid Bundle Adjustment](https://ieeexplore.ieee.org/abstract/document/11554079)
@@ -60,7 +60,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/L3DGS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Localization Using 3D Gaussian Splatting Representation for Mobile Robots with Geometric Feature Correspondences Synthesis](https://doi.org/10.1109/TASE.2025.3601848)
@@ -74,7 +74,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2025</div><img src='images/6DoF-pose.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Six-DoF Pose Estimation with Efficient 3-D Gaussian Splatting Representation for Visual Relocalization](https://doi.org/10.1109/TMECH.2024.3507134)
@@ -88,7 +88,7 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS 2023</div><img src='images/TCSS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optical Flow-Based Stereo Visual Odometry with Dynamic Object Detection](https://doi.org/10.1109/TCSS.2022.3205015)
