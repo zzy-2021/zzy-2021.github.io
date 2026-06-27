@@ -23,9 +23,13 @@ I am a Ph.D. student in the School of Automation Science and Engineering at **So
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2026** (CCF-A)!
+- *2026*: &nbsp;🎉🎉 One paper accepted by **IEEE/ASME Transactions on Mechatronics** (SCI Q1)!
+- *2025*: &nbsp;🎉🎉 One paper accepted by **IEEE Transactions on Automation Science and Engineering** (SCI Q1)!
+- *2025*: &nbsp;🎉🎉 One paper accepted by **IEEE/ASME Transactions on Mechatronics** (SCI Q1)!
 - *2025.10*: &nbsp;🎉🎉 Won the **Xinwangda New Energy Technology Innovation Scholarship** at SCUT.
 - *2025.10*: &nbsp;🎉 One patent granted: *Visual UAV Trajectory Estimation Method with Co-View Constraints*.
 - *2024.05*: &nbsp;🎉 One patent granted: *Binocular Visual Odometry Method with Dynamic Object Detection*.
+- *2022.09*: &nbsp;🎉 One paper accepted by **IEEE Transactions on Computational Social Systems** (SCI Q2)!
 
 <span class='anchor' id='-publications'></span>
 
@@ -102,7 +106,7 @@ Yu Liu, **Zhiyu Zhou**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2022</div><img src='images/CCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stereo Visual Odometry for Object Segmentation Based on Sparse Optical Flow in Dynamic Scene](https://doi.org/10.23919/CCC55666.2022.9901713)
