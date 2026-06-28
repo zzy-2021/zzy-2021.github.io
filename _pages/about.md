@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at **South China University of Technology (SCUT)**, advised by [Prof. Yu Liu](https://www.scholat.com/auylau). My research focuses on **robot perception, 3D vision, SLAM, and large language model (LLM) reasoning**, spanning robust visual localization, 3D Gaussian splatting, and multi-modal large models for intelligent systems.
+I am a Ph.D. student at **South China University of Technology (SCUT)**, advised by [Prof. Yu Liu](https://www.scholat.com/auylau). My research focuses on **robot perception, 3D vision, SLAM, and large language model (LLM) reasoning** for intelligent robotic systems.
 
 <span class='anchor' id='-news'></span>
 
